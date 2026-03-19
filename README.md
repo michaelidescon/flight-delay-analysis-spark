@@ -17,6 +17,13 @@ The analysis is based on real flight data and focuses on identifying patterns in
 
 The results show that delays tend to increase during certain hours of the day, especially in the evening. Additionally, some routes consistently appear among those with higher average delays.
 
+## Visualizations
+
+### Average delay by departure hour
+![Average delay by hour](avg_delay_by_hour.png)
+
+### Top-10 routes with highest average delay
+![Top delayed routes](top10_routes_delay.png)
 ## Files
 
 * flight_delay_analysis_spark.ipynb – main notebook with the analysis

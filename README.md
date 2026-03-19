@@ -31,5 +31,5 @@ Open the notebook in Google Colab, upload the dataset, and run all cells to repr
 
 ## Authors
 
-Konstantinos Michaelides
-Pantelis Tasopoulos
+- Konstantinos Michaelides
+- Pantelis Tasopoulos
